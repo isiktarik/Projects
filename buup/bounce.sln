@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{23A817B7-113A-86CD-2A8A-B66FBD16DED9}") = "bounce", "Assembly-CSharp.csproj", "{8303D3E5-4A1C-6290-6072-99167B8B9F36}"
+EndProject
+Project("{23A817B7-113A-86CD-2A8A-B66FBD16DED9}") = "bounce", "Assembly-CSharp-Editor.csproj", "{0A286EF0-A15D-30EB-897A-7B0DF2C2D18D}"
+EndProject
+Project("{23A817B7-113A-86CD-2A8A-B66FBD16DED9}") = "bounce", "Assembly-UnityScript.unityproj", "{1FC10069-A155-EBE9-4136-BC1BB1E2B882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8303D3E5-4A1C-6290-6072-99167B8B9F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8303D3E5-4A1C-6290-6072-99167B8B9F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8303D3E5-4A1C-6290-6072-99167B8B9F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8303D3E5-4A1C-6290-6072-99167B8B9F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A286EF0-A15D-30EB-897A-7B0DF2C2D18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A286EF0-A15D-30EB-897A-7B0DF2C2D18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A286EF0-A15D-30EB-897A-7B0DF2C2D18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A286EF0-A15D-30EB-897A-7B0DF2C2D18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC10069-A155-EBE9-4136-BC1BB1E2B882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC10069-A155-EBE9-4136-BC1BB1E2B882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC10069-A155-EBE9-4136-BC1BB1E2B882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC10069-A155-EBE9-4136-BC1BB1E2B882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

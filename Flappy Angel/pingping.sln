@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{28912685-F003-8566-F611-2B5C984C6E8C}") = "pingping", "Assembly-CSharp.csproj", "{92B1D67B-777C-1746-C535-9EE484366AEB}"
+EndProject
+Project("{28912685-F003-8566-F611-2B5C984C6E8C}") = "pingping", "Assembly-CSharp-Editor.csproj", "{5BCEC2E6-AE48-00F7-B4F3-78568ABBB5A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B1D67B-777C-1746-C535-9EE484366AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B1D67B-777C-1746-C535-9EE484366AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B1D67B-777C-1746-C535-9EE484366AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B1D67B-777C-1746-C535-9EE484366AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCEC2E6-AE48-00F7-B4F3-78568ABBB5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCEC2E6-AE48-00F7-B4F3-78568ABBB5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCEC2E6-AE48-00F7-B4F3-78568ABBB5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCEC2E6-AE48-00F7-B4F3-78568ABBB5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
